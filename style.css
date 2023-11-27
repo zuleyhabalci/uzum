@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(249, 236, 218);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+body}
+
+
+.heading{
+<. h1> UZUM </h1>  color: olive;
+}
+.h1UZUM {color: rgb(65, 43, 2)28, 83, 0)}
+
+ul{
+    display: flex;
+
+    list-style-type: none;
+    gap: 1;
+}
+ul li{
+    flex-grow: 1,4
+}
